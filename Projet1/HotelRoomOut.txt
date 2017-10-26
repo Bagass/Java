@@ -1,0 +1,17 @@
+-------------------------------------------------- 
+NUMBER OF ROOMS WITH EACH VIEW
+street view :4
+garden view :4
+sea view    :6
+-------------------------------------------------- 
+Max income that the site could get per night : 
+3376.96
+-------------------------------------------------- 
+Cost of the cheapest cabin : 
+50.0
+-------------------------------------------------- 
+Cost of the most expensive cabin : 
+1000.0
+-------------------------------------------------- 
+Number of hotel room : 
+14
